@@ -17,7 +17,7 @@ https://hub.docker.com/repository/docker/artemduke/custom-nginx/general
 ![задание_3_1](https://github.com/ArtemDuke/shdevops-4/assets/161213872/e403365c-43f5-4784-8db7-7d1065c9caf7)
 ![задание_3_2](https://github.com/ArtemDuke/shdevops-4/assets/161213872/25e5869d-d117-4cdc-9ecb-9b5687f9330c)
 
-ошибка из-за несоответствия портов указанный при старте контейнера и порта указанном в default.conf 
+ошибка из-за несоответствия портов указанных при старте контейнера и порта указанном в default.conf 
 
 Задача 4
 
