@@ -49,3 +49,27 @@ https://github.com/ArtemDuke/shvirtd-example-python
 переходим в директорию bin c файлом terraform
 
 ![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/66aa98f6-433f-4866-b721-57fcc1559bc6)
+
+Задание 6.1. сделал на контейнер haproxy т.к. terraafor уже установлен и как контейнер не поднимался 
+
+список работающи контейнеров
+
+![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/bd81a952-dda1-4718-842c-82827fdbb627)
+
+выводим содержимое контейнера
+
+![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/307bf2ea-f43a-45b1-892f-6e56c6fdacc3)
+
+содержимое контейнера с нужным id и digest
+
+
+![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/a307ea65-9180-47a3-8c00-a7e57db646c3)
+
+
+копируем нужную папку
+
+![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/1db213b7-a33d-4eb3-bf94-7cf73ef2a2e4)
+
+содержимое совпадает
+
+![изображение](https://github.com/ArtemDuke/shdevops-4-virt/assets/161213872/c55b130d-041d-4a64-8b6f-9427104b6174)
